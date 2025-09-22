@@ -1,7 +1,7 @@
 # Query-centric Audio-Visual Cognition Network for  Moment Retrieval, Segmentation and Step-Captioning
 This package contains the accompanying code for the following paper:
 
-Tu, Yunbin, et al. ["Query-centric Audio-Visual Cognition Network for  Moment Retrieval, Segmentation and Step-Captioning"](https://arxiv.org/pdf/2412.13543), which has appeared as a long paper in AAAI 2025. 
+Tu, Yunbin, et al. ["Query-centric Audio-Visual Cognition Network for  Moment Retrieval, Segmentation and Step-Captioning"](https://arxiv.org/pdf/2412.13543), which has appeared as a regular paper in AAAI 2025. 
 
 ## We illustrate the training and testing details as follows:
 
